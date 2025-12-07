@@ -100,5 +100,5 @@ Puedes usarlo libremente, citarlo o integrarlo en tus notas de estudio o clases.
 
 ## Autoría
 
-Este proyecto fue creado por **NelsonDiaz Lara** como material de apoyo para estudiantes y profesionales que buscan aprobar el examen **Cisco CCNP ENARSI** y mejorar su dominio en tecnologías de enrutamiento avanzado.
+Este proyecto fue creado por **Nelson Diaz Lara** como material de apoyo para estudiantes y profesionales que buscan aprobar el examen **Cisco CCNP ENARSI** y mejorar su dominio en tecnologías de enrutamiento avanzado.
 
